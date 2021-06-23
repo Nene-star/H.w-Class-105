@@ -1,0 +1,9 @@
+body{
+    background-color: lightpink;
+}
+
+#camera {
+    border: 2px dashed black;
+    height: 300px;
+    width: 350px;
+}
